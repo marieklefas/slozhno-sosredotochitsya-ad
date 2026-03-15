@@ -69,37 +69,37 @@
     --bg-image: url(../images/cover-image-light.png);
   }
 
-  .theme-light .decorated-zone::after {
+  .theme-auto .decorated-zone::after {
     border-top: 1px solid var(--main-text-color);
     border-right: 1px solid var(--main-text-color);
   }
 
-  .theme-light .decorated-zone::before {
+  .theme-auto .decorated-zone::before {
     border-bottom: 1px solid var(--main-text-color);
     border-left: 1px solid var(--main-text-color);
   }
 
-  .theme-light .header__theme-menu-list {
+  .theme-auto .header__theme-menu-list {
     color: var(--main-text-color);
   }
 
-  .theme-light .header__theme-menu-button:hover {
+  .theme-auto .header__theme-menu-button:hover {
     border: 1px solid rgba(50, 49, 45, 0.4);
   }
 
-  .theme-light .header__theme-menu-button:focus-visible {
+  .theme-auto .header__theme-menu-button:focus-visible {
     border-bottom: 1px solid var(--main-text-color);
   }
 
-  .theme-light .header__theme-menu-button_active {
+  .theme-auto .header__theme-menu-button_active {
     border: 1px solid var(--main-text-color);
   }
 
-  .theme-light .dark-record {
+  .theme-auto .dark-record {
     visibility: hidden;
   }
 
-  .theme-light .title, .title-decor {
+  .theme-auto .title, .title-decor {
     color: var(--main-text-color);
   }
 }
