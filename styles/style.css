@@ -13,7 +13,7 @@
   background-color: var(--bg-color);
   background-attachment: fixed;
   object-position: center;
-  padding: 10px;
+  padding: 10px !important;
   font-family: var(--main-font);
   font-weight: var(--regular-weight);
   font-size: var(--main-font-size);
