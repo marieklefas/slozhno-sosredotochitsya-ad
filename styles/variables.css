@@ -2,3 +2,21 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+:root {
+  --main-font: IBM Plex mono;
+  --bold-weight: 700;
+  --regular-weight: 400;
+  --main-font-size: 18px;
+  --main-line-height: 23.4px;
+
+  --bg-color: #000028;
+  /* цвет текста на темном фоне */
+  --main-text-color: #F1B2CE;
+  /* самый первый заголовок */
+  --accent-tittle-color:#DB00FF;
+  /* для цветных блоков, заголовков h2, эффект ссылки */
+  --accent-color: #FF0070;
+
+  --bg-image: url(../images/cover-image-dark.png);
+}
