@@ -23,11 +23,6 @@
   Вам также нужно будет написать ряд подобных селекторов
 } */
 
-.theme-light body {
-  margin: 0 auto;
-  padding: 0;
-}
-
 .theme-light .decorated-zone::after {
   border-top: 1px solid var(--main-text-color);
   border-right: 1px solid var(--main-text-color);
@@ -76,11 +71,6 @@
     /* для цветных блоков, заголовков h2, эффект ссылки */
     --accent-color: #FF8DCB;
     --bg-image: url(../images/cover-image-light.png);
-  }
-
-  .theme-auto body {
-    margin: 0 auto;
-    padding: 0;
   }
 
   .theme-auto .decorated-zone::after {
