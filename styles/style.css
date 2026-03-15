@@ -7,6 +7,11 @@
   background-attachment: fixed;
   object-position: center;
   padding: 10px;
+  font-family: var(--main-font);
+  font-weight: var(--regular-weight);
+  font-size: var(--main-font-size);
+  line-height: var(--main-line-height);
+  letter-spacing: 0;
 }
 
 .header {
