@@ -309,6 +309,7 @@
   .header {
     min-height: 768px;
     /* height: 100vh; */
+    align-content: normal;
   }
 
   .header__theme-menu {
