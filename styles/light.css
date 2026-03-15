@@ -53,7 +53,11 @@
   visibility: hidden;
 }
 
-.theme-light .title, .title-decor {
+.theme-light .title {
+  color: var(--main-text-color);
+}
+
+.theme-light .title-decor {
   color: var(--main-text-color);
 }
 
@@ -99,7 +103,11 @@
     visibility: hidden;
   }
 
-  .theme-auto .title, .title-decor {
+  .theme-auto .title {
+    color: var(--main-text-color);
+  }
+
+  .theme-light .title-decor {
     color: var(--main-text-color);
   }
 }
