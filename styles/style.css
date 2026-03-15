@@ -11,7 +11,7 @@
 
 .header {
   min-height: 668px;
-  height: 100vh;
+  /* height: 100vh; */
   display: grid;
   align-items: center;
   align-content: space-evenly;
