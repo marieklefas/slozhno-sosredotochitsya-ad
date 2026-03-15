@@ -43,7 +43,7 @@
   left: 0;
 }
 
-.header__theme-menu {}
+/* .header__theme-menu {} */
 
 .header__theme-menu-list {
   display: grid;
@@ -54,7 +54,7 @@
   align-items: end;
 }
 
-.header__theme-menu-item {}
+/* .header__theme-menu-item {} */
 
 .header__theme-menu-button {
   border: none;
@@ -78,11 +78,11 @@
   pointer-events: none;
 }
 
-.header__theme-menu-button_type_light {}
+/* .header__theme-menu-button_type_light {}
 
 .header__theme-menu-button_type_auto {}
 
-.header__theme-menu-button_type_dark {}
+.header__theme-menu-button_type_dark {} */
 
 .dark-record {
   display: block;
